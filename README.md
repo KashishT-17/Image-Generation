@@ -1,7 +1,7 @@
-Image Generation for E-commerce
+**Image Generation for E-commerce**
 This is a Capstone project for the completion of the Summer Analytics 2024 course by the Consulting & Analytics Club, IIT Guwahati.
 
-Project Overview: Create a generative AI model that produces high-quality product images for e-commerce platforms.
+*Project Overview: Create a generative AI model that produces high-quality product images for e-commerce platforms.
 
 Use Cases:
 
